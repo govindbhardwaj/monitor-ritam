@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3674,
-    "timeDay": 3674,
-    "timeWeek": 3674,
-    "timeMonth": 3674,
-    "timeYear": 3674,
+    "time": 2389,
+    "timeDay": 2389,
+    "timeWeek": 2389,
+    "timeMonth": 2389,
+    "timeYear": 2389,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2223,
-    "timeDay": 2223,
-    "timeWeek": 2223,
-    "timeMonth": 2223,
-    "timeYear": 2223,
+    "time": 1637,
+    "timeDay": 1637,
+    "timeWeek": 1637,
+    "timeMonth": 1637,
+    "timeYear": 1637,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3631,
-    "timeDay": 3631,
-    "timeWeek": 3631,
-    "timeMonth": 3631,
-    "timeYear": 3631,
+    "time": 2348,
+    "timeDay": 2348,
+    "timeWeek": 2348,
+    "timeMonth": 2348,
+    "timeYear": 2348,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.ritamdigital.org.ico",
     "slug": "jenkins-server",
     "status": "down",
-    "uptime": "22.79%",
-    "uptimeDay": "22.79%",
-    "uptimeWeek": "22.79%",
-    "uptimeMonth": "22.79%",
-    "uptimeYear": "22.79%",
-    "time": 2581,
-    "timeDay": 2581,
-    "timeWeek": 2581,
-    "timeMonth": 2581,
-    "timeYear": 2581,
+    "uptime": "95.29%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "95.29%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "95.29%",
+    "time": 1827,
+    "timeDay": 1827,
+    "timeWeek": 1827,
+    "timeMonth": 1827,
+    "timeYear": 1827,
     "dailyMinutesDown": {
-      "2024-05-03": 0
+      "2024-05-03": 1
     }
   }
 ]
