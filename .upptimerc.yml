@@ -14,10 +14,10 @@ sites:
 
 status-website:
   baseUrl: /monitor-ritam
-  name: RitamDigital Uptime Monitoring
+  name: Ritam Digital Media Foundation
   logoUrl: https://www.ritamdigital.org/content/8b4e383b880a8e026f4ea3fd339893f3.png
-  introTitle: "Ritam websites uptime monitoring powered by **Upptime**"
-  introMessage: This is Ritam Digital uptime monitoring website. Please check individual statuses for websites listed below.
+  introTitle: "Ritam Digital Media Foundation's Services Status."
+  introMessage: This is our status page, where you can get updates on how our systems are doing. If there are interruptions to service, we will post a note here. As always, if you are experiencing any issues with Ritam websites, don't hesitate to get in touch with us at digitalritam@gmail.com and we'll get back to you as soon as we can.
   navbar:
     - title: Mobile APIs
       href: https://ritamdigital.org
