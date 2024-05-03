@@ -3,19 +3,29 @@ owner: govindbhardwaj # Your GitHub organization or username, where this reposit
 repo: monitor-ritam # The name of this repository
 
 sites:
-  - name: RitamDigital.org
+  - name: Mobile Application APIs
     url: https://ritamdigital.org
+  - name: Editor CMS
+    url: https://editor.ritamdigital.org
+  - name: Crawler APIs
+    url: https://crawler.ritamdigital.org
+  - name: Jenkins Server
+    url: https://jenkins.ritamdigital.org
 
 status-website:
   baseUrl: /monitor-ritam
-  name: RitamDigital.org Uptime Monitoring
+  name: RitamDigital Uptime Monitoring
   logoUrl: https://www.ritamdigital.org/content/8b4e383b880a8e026f4ea3fd339893f3.png
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Ritam websites uptime monitoring powered by **Upptime**"
+  introMessage: This is Ritam Digital uptime monitoring website. Please check individual statuses for websites listed below.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Mobile APIs
+      href: https://ritamdigital.org
+    - title: Editor CMS
+      href: https://editor.ritamdigital.org
+    - title: Crawler APIs
+      href: https://crawler.ritamdigital.org
+    - title: Jenkins
+      href: https://jenkins.ritamdigital.org
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
