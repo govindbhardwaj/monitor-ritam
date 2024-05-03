@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ritamdigital.org.ico",
     "slug": "mobile-application-ap-is",
     "status": "up",
-    "uptime": "89.56%",
-    "uptimeDay": "89.56%",
-    "uptimeWeek": "89.56%",
-    "uptimeMonth": "89.56%",
-    "uptimeYear": "89.56%",
+    "uptime": "96.69%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "96.69%",
+    "uptimeMonth": "96.69%",
+    "uptimeYear": "96.69%",
     "time": 2112,
     "timeDay": 2112,
     "timeWeek": 2112,
     "timeMonth": 2112,
     "timeYear": 2112,
     "dailyMinutesDown": {
-      "2024-05-03": 30
+      "2024-05-03": 15
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/editor.ritamdigital.org.ico",
     "slug": "editor-cms",
     "status": "up",
-    "uptime": "89.54%",
-    "uptimeDay": "89.54%",
-    "uptimeWeek": "89.54%",
-    "uptimeMonth": "89.54%",
-    "uptimeYear": "89.54%",
+    "uptime": "96.68%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "96.68%",
     "time": 1999,
     "timeDay": 1999,
     "timeWeek": 1999,
     "timeMonth": 1999,
     "timeYear": 1999,
     "dailyMinutesDown": {
-      "2024-05-03": 30
+      "2024-05-03": 15
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://crawler.ritamdigital.org/services/ritam/api/posts/top-headlines/tag/top-stories/editor",
     "icon": "https://icons.duckduckgo.com/ip3/crawler.ritamdigital.org.ico",
     "slug": "crawler-ap-is",
-    "status": "up",
-    "uptime": "94.91%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "94.91%",
-    "uptimeMonth": "94.91%",
-    "uptimeYear": "94.91%",
-    "time": 1754,
-    "timeDay": 1754,
-    "timeWeek": 1754,
-    "timeMonth": 1754,
-    "timeYear": 1754,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1673,
+    "timeDay": 1673,
+    "timeWeek": 1673,
+    "timeMonth": 1673,
+    "timeYear": 1673,
     "dailyMinutesDown": {
-      "2024-05-03": 15
+      "2024-05-03": 0
     }
   },
   {
@@ -65,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.ritamdigital.org.ico",
     "slug": "jenkins-server",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1591,
     "timeDay": 1591,
     "timeWeek": 1591,
