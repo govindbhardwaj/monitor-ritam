@@ -1,7 +1,7 @@
 url: https://ritamdigital.org/services/ritam/api/posts/top-headlines/tag/top-stories/editor
-status: down
-code: 500
-responseTime: 1018
-lastUpdated: 2024-05-23T08:55:58.917Z
+status: up
+code: 200
+responseTime: 5486
+lastUpdated: 2024-05-23T09:11:43.685Z
 startTime: 2024-05-03T03:39:00.941Z
 generator: Upptime <https://github.com/upptime/upptime>
