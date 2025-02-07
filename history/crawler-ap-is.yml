@@ -1,7 +1,7 @@
 url: https://crawler.ritamdigital.org/services/ritam/api/posts/top-headlines/tag/top-stories/editor
-status: down
-code: 500
-responseTime: 2015
-lastUpdated: 2025-02-07T23:50:58.042Z
+status: up
+code: 200
+responseTime: 1170
+lastUpdated: 2025-02-07T23:57:33.260Z
 startTime: 2024-05-03T03:39:07.935Z
 generator: Upptime <https://github.com/upptime/upptime>
