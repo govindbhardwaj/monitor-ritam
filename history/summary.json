@@ -11,9 +11,9 @@
     "uptimeMonth": "95.65%",
     "uptimeYear": "99.29%",
     "time": 1291,
-    "timeDay": 1213,
-    "timeWeek": 1199,
-    "timeMonth": 1340,
+    "timeDay": 1091,
+    "timeWeek": 1195,
+    "timeMonth": 1351,
     "timeYear": 1314,
     "dailyMinutesDown": {
       "2025-05-17": 39,
@@ -64,8 +64,7 @@
       "2024-06-03": 16,
       "2024-06-02": 52,
       "2024-05-25": 74,
-      "2024-05-24": 35,
-      "2024-05-23": 16
+      "2024-05-24": 35
     }
   },
   {
@@ -80,10 +79,10 @@
     "uptimeMonth": "94.80%",
     "uptimeYear": "99.00%",
     "time": 1308,
-    "timeDay": 1198,
+    "timeDay": 1156,
     "timeWeek": 1074,
-    "timeMonth": 1089,
-    "timeYear": 1322,
+    "timeMonth": 1093,
+    "timeYear": 1323,
     "dailyMinutesDown": {
       "2025-05-19": 33,
       "2025-05-16": 32,
@@ -150,8 +149,7 @@
       "2024-06-02": 52,
       "2024-05-26": 16,
       "2024-05-25": 48,
-      "2024-05-24": 48,
-      "2024-05-23": 16
+      "2024-05-24": 48
     }
   },
   {
@@ -160,18 +158,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/crawler.ritamdigital.org.ico",
     "slug": "crawler-ap-is",
     "status": "up",
-    "uptime": "97.21%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "95.79%",
-    "uptimeYear": "97.22%",
+    "uptime": "97.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "95.81%",
+    "uptimeYear": "97.23%",
     "time": 1299,
-    "timeDay": 1313,
-    "timeWeek": 1128,
-    "timeMonth": 1107,
+    "timeDay": 1247,
+    "timeWeek": 1123,
+    "timeMonth": 1105,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2025-05-22": 7,
       "2025-04-25": 500,
       "2025-04-24": 1337,
       "2025-01-31": 868,
@@ -242,8 +239,7 @@
       "2024-06-02": 52,
       "2024-05-27": 24,
       "2024-05-25": 223,
-      "2024-05-24": 501,
-      "2024-05-23": 217
+      "2024-05-24": 501
     }
   },
   {
@@ -252,18 +248,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.ritamdigital.org.ico",
     "slug": "jenkins-server",
     "status": "down",
-    "uptime": "33.91%",
+    "uptime": "33.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "30.41%",
+    "uptimeYear": "30.25%",
     "time": 1120,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1038,
+    "timeMonth": 1041,
     "timeYear": 1120,
     "dailyMinutesDown": {
-      "2025-05-22": 718,
+      "2025-05-23": 105,
+      "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
